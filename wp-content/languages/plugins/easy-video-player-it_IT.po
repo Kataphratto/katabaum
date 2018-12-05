@@ -1,0 +1,58 @@
+# Translation of Plugins - Easy Video Player - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - Easy Video Player - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-28 22:35:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Easy Video Player - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://noorsplugin.com/"
+msgstr "http://noorsplugin.com/"
+
+#. Author of the plugin/theme
+msgid "naa986"
+msgstr "naa986"
+
+#. Description of the plugin/theme
+msgid "Easily embed videos into your WordPress blog"
+msgstr "Inserisci facilmente video nel tuo blog Wordpress"
+
+#. Plugin URI of the plugin/theme
+msgid "http://noorsplugin.com/wordpress-video-plugin/"
+msgstr "http://noorsplugin.com/wordpress-video-plugin/"
+
+#: easy-video-player.php:92
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: easy-video-player.php:86
+msgid "By default this option should always be checked."
+msgstr "Questa opzione predefinita dovrebbe essere spuntata."
+
+#: easy-video-player.php:84
+msgid "Enable jQuery"
+msgstr "Abilita jQuery"
+
+#: easy-video-player.php:79
+msgid "General Settings"
+msgstr "Impostazioni"
+
+#: easy-video-player.php:74
+msgid "For detailed documentation please visit the plugin homepage <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr "Per maggiori dettagli per favore visita la homepage del plugin <a target=\"_blank\" href=\"%s\">cliccando qui</a>."
+
+#. #-#-#-#-#  easy-video-player-code.pot (Easy Video Player 1.1.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: easy-video-player.php:63
+msgid "Easy Video Player"
+msgstr "Easy Video Player"
+
+#: easy-video-player.php:51
+msgid "Settings"
+msgstr "Proprietà"
